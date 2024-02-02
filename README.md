@@ -34,17 +34,17 @@
 ![image](https://github.com/lkmllemon/StudentQRAttendanceSystem/assets/76756859/74d0e10f-be77-4232-a9c2-497cd64354c8)
 
 
-#### The QR Code will be generated after the user has entered the course code:
+### The QR Code will be generated after the user has entered the course code:
 
 ![image](https://github.com/lkmllemon/StudentQRAttendanceSystem/assets/76756859/47441a67-5661-434d-a848-c2990170cae8)
 
 
-#### The QR Code will directly link to the Sign Page. The user must enter his student ID to mark his attendance in that course:
+### The QR Code will directly link to the Sign Page. The user must enter his student ID to mark his attendance in that course:
 
 ![image](https://github.com/lkmllemon/StudentQRAttendanceSystem/assets/76756859/6b03b6e4-9b67-4c10-9c6b-568d400835bc)
 
 
-#### Users may have to log out of their accounts after they have signed their attendance:
+### Users may have to log out of their accounts after they have signed their attendance:
 
 ![image](https://github.com/lkmllemon/StudentQRAttendanceSystem/assets/76756859/6eb5f7fa-a805-4f10-b592-3fbfaf293b5d)
 
