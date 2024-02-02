@@ -48,6 +48,11 @@
 
 ![image](https://github.com/lkmllemon/StudentQRAttendanceSystem/assets/76756859/6eb5f7fa-a805-4f10-b592-3fbfaf293b5d)
 
+### Database is created by using phpMyAdmin:
+
+![image](https://github.com/lkmllemon/StudentQRAttendanceSystem/assets/76756859/80d964df-8fb7-40a6-adaf-6bd0e636abd3)
+
+
 ## The link to the website: https://studentattendancesystemcst2104044.000webhostapp.com/Home.php
 ### *Please note that this website link in unsafe.
 ### *The time_zone of the server is in Europe/London.
