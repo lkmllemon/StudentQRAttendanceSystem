@@ -48,3 +48,6 @@
 
 ![image](https://github.com/lkmllemon/StudentQRAttendanceSystem/assets/76756859/6eb5f7fa-a805-4f10-b592-3fbfaf293b5d)
 
+## The link to the website: https://studentattendancesystemcst2104044.000webhostapp.com/Home.php
+### *Please note that this website link in unsafe.
+### *The time_zone of the server is in Europe/London.
