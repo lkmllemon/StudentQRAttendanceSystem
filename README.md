@@ -16,6 +16,7 @@ Webpages in this system:
 5. Sign Page (Sign Student ID to mark attendance)
 
 Flowcharts
+
 ![image](https://github.com/lkmllemon/StudentQRAttendanceSystem/assets/76756859/d965dced-47cf-49fa-905c-b697c161cc58)
 
 
