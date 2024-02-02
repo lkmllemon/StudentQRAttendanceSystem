@@ -1,5 +1,6 @@
 # Student QR Code Attendance System 
 ## This project aims to create a website for the student attendance system for Xiamen University Malaysia. Students can scan the QR Code on this website to mark their attendance.
+### HTML, CSS, JavaScript, PHP, and MySQL are used in this project.
 
 ## Main functions in this system:
 1. Registration
